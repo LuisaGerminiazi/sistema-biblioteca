@@ -1,8 +1,8 @@
-package daos;
 
-import core.MeuPreparedStatement;
 
-public class BDSQLServer {
+import MeuPreparedStatement;
+
+public class ConexaoBD {
     public static final MeuPreparedStatement COMANDO;
 
     static {
